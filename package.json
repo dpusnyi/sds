@@ -36,7 +36,7 @@
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.2",
     "eosjs": "^16.0.9",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "generate-password": "^1.4.0",
     "jsonwebtoken": "^8.2.0",
     "lodash": "^4.17.5",
